@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "81562935060",
+    "firebase_url": "https://theattic-c0b90.firebaseio.com",
+    "project_id": "theattic-c0b90",
+    "storage_bucket": "theattic-c0b90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81562935060:android:46fce09a4b888cf2672c01",
+        "android_client_info": {
+          "package_name": "com.example.theattic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81562935060-99cmom3t486ihq1lf292n8tr9sibu387.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVOH3VupXnrzait8KxbQo6SVWaN2qXaIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81562935060-99cmom3t486ihq1lf292n8tr9sibu387.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
